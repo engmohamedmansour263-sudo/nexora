@@ -1,0 +1,28 @@
+{
+  "Home": {
+    "eyebrow": "طريقة أذكى لإنجاز أعمالك",
+    "headline": "كل ما تحتاجه،",
+    "headlineAccent": "في مكان واحد.",
+    "subheadline": "اكتشف حاسبات مفيدة وقوالب جاهزة وأدوات إنتاجية تجعل العمل أسهل.",
+    "calculators": "الحاسبات",
+    "templates": "القوالب",
+    "tools": "الأدوات",
+    "pricing": "الأسعار",
+    "signIn": "تسجيل الدخول",
+    "search": "ابحث عن حاسبات وقوالب وأدوات...",
+    "searchButton": "بحث",
+    "calculators.title": "حاسبات ذكية",
+    "calculators.description": "حاسبات عملية للمال والأعمال والرياضيات والحياة اليومية.",
+    "templates.title": "قوالب جاهزة",
+    "templates.description": "موارد مفيدة لـ Excel وSheets وWord وPDF وNotion.",
+    "tools.title": "أدوات إلكترونية",
+    "tools.description": "أدوات بسيطة تساعدك على العمل بسرعة وتنظيم أفضل.",
+    "premium.title": "Nexora Pro",
+    "premium.description": "افتح الوصول إلى الموارد المميزة ومزايا الأعضاء.",
+    "proLabel": "NEXORA PRO",
+    "proTitle": "مساحة أكبر لإنجاز أعمال مميزة.",
+    "proDescription": "احصل على الموارد المميزة والأدوات المتقدمة ومكتبة متنامية من المنتجات الرقمية.",
+    "explorePlans": "استكشف الخطط",
+    "rights": "جميع الحقوق محفوظة."
+  }
+}

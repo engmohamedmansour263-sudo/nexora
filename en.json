@@ -1,0 +1,28 @@
+{
+  "Home": {
+    "eyebrow": "A smarter way to get things done",
+    "headline": "Everything you need,",
+    "headlineAccent": "in one place.",
+    "subheadline": "Explore useful calculators, ready-to-use templates and productivity tools designed to make work simpler.",
+    "calculators": "Calculators",
+    "templates": "Templates",
+    "tools": "Tools",
+    "pricing": "Pricing",
+    "signIn": "Sign in",
+    "search": "Search calculators, templates and tools...",
+    "searchButton": "Search",
+    "calculators.title": "Smart calculators",
+    "calculators.description": "Practical calculators for finance, business, math and everyday life.",
+    "templates.title": "Ready-made templates",
+    "templates.description": "Useful Excel, Sheets, Word, PDF and Notion resources.",
+    "tools.title": "Online tools",
+    "tools.description": "Simple utilities that help you work faster and stay organized.",
+    "premium.title": "Nexora Pro",
+    "premium.description": "Unlock premium resources and member benefits.",
+    "proLabel": "NEXORA PRO",
+    "proTitle": "Make more room for great work.",
+    "proDescription": "Get access to premium resources, advanced tools and a growing library of digital products.",
+    "explorePlans": "Explore plans",
+    "rights": "All rights reserved."
+  }
+}

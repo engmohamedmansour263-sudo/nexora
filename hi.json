@@ -1,0 +1,28 @@
+{
+  "Home": {
+    "eyebrow": "काम करने का एक बेहतर तरीका",
+    "headline": "आपकी ज़रूरत की हर चीज़,",
+    "headlineAccent": "एक ही जगह।",
+    "subheadline": "उपयोगी कैलकुलेटर, तैयार टेम्पलेट और उत्पादकता टूल खोजें।",
+    "calculators": "कैलकुलेटर",
+    "templates": "टेम्पलेट",
+    "tools": "टूल",
+    "pricing": "कीमतें",
+    "signIn": "साइन इन",
+    "search": "कैलकुलेटर, टेम्पलेट और टूल खोजें...",
+    "searchButton": "खोजें",
+    "calculators.title": "स्मार्ट कैलकुलेटर",
+    "calculators.description": "वित्त, व्यवसाय, गणित और रोज़मर्रा के उपयोग के कैलकुलेटर।",
+    "templates.title": "तैयार टेम्पलेट",
+    "templates.description": "Excel, Sheets, Word, PDF और Notion के उपयोगी संसाधन।",
+    "tools.title": "ऑनलाइन टूल",
+    "tools.description": "काम को तेज़ और व्यवस्थित बनाने वाले सरल टूल।",
+    "premium.title": "Nexora Pro",
+    "premium.description": "प्रीमियम संसाधनों और सदस्य सुविधाओं का लाभ लें।",
+    "proLabel": "NEXORA PRO",
+    "proTitle": "बेहतर काम के लिए अधिक अवसर।",
+    "proDescription": "प्रीमियम संसाधन, उन्नत टूल और डिजिटल उत्पादों की बढ़ती लाइब्रेरी पाएँ।",
+    "explorePlans": "प्लान देखें",
+    "rights": "सर्वाधिकार सुरक्षित।"
+  }
+}

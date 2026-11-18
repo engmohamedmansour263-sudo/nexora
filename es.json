@@ -1,0 +1,28 @@
+{
+  "Home": {
+    "eyebrow": "Una forma más inteligente de trabajar",
+    "headline": "Todo lo que necesitas,",
+    "headlineAccent": "en un solo lugar.",
+    "subheadline": "Descubre calculadoras útiles, plantillas listas para usar y herramientas de productividad.",
+    "calculators": "Calculadoras",
+    "templates": "Plantillas",
+    "tools": "Herramientas",
+    "pricing": "Precios",
+    "signIn": "Iniciar sesión",
+    "search": "Buscar calculadoras, plantillas y herramientas...",
+    "searchButton": "Buscar",
+    "calculators.title": "Calculadoras inteligentes",
+    "calculators.description": "Calculadoras prácticas para finanzas, negocios, matemáticas y la vida diaria.",
+    "templates.title": "Plantillas listas para usar",
+    "templates.description": "Recursos útiles para Excel, Sheets, Word, PDF y Notion.",
+    "tools.title": "Herramientas online",
+    "tools.description": "Utilidades sencillas para trabajar más rápido y organizarte mejor.",
+    "premium.title": "Nexora Pro",
+    "premium.description": "Accede a recursos premium y ventajas para miembros.",
+    "proLabel": "NEXORA PRO",
+    "proTitle": "Más espacio para hacer un gran trabajo.",
+    "proDescription": "Accede a recursos premium, herramientas avanzadas y una biblioteca creciente de productos digitales.",
+    "explorePlans": "Ver planes",
+    "rights": "Todos los derechos reservados."
+  }
+}
